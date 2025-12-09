@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ultimate Guessing Game</title>
+    <title>Eska's Ultimate Guessing Game</title>
     <style>
         :root {
             --bg-light: #f5f5f5;
@@ -41,7 +41,7 @@
 </head>
 <body>
 <header>
-    <h1>🎯 Ultimate Guessing Game</h1>
+    <h1>🎯 Eska's Ultimate Guessing Game</h1>
 </header>
 <div class="container">
     <label for="difficulty">Select Difficulty:</label>
